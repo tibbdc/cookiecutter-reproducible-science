@@ -33,7 +33,7 @@ Project Structure
 ├── reports            <- For a manuscript source, e.g., LaTeX, Markdown, etc., or any project reports
 │   └── figures        <- Figures for the manuscript or reports
 └── src                <- Source code for this project
-    ├── data           <- scripts and programs for downloading and preprocessing the data (generate data from external to processed)
+    ├── data           <- scripts for downloading and preprocessing the data (generate data from external to processed)
     ├── external       <- Any external source code, e.g., pull other git projects, or external libraries
     ├── analysis       <- Source code for analysis (generate result)
     ├── tools          <- Any other helper scripts go here
