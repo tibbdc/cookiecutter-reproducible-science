@@ -29,7 +29,7 @@ Project Structure
 │   ├── processed      <- The prosessed data for analysis.
 │   └── result         <- The result data.
 ├── docs               <- Documentation
-├── notebooks          <- Jupyter notebooks to show the workflow
+├── notebooks          <- Jupyter notebooks to show the whole workflow, call the code in src directory
 ├── reports            <- For a manuscript source, e.g., LaTeX, Markdown, etc., or any project reports
 │   └── figures        <- Figures for the manuscript or reports
 └── src                <- Source code for this project
